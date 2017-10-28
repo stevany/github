@@ -1,0 +1,30 @@
+button {
+    background: #DCDCDC;
+ 	color:#808080;
+    cursor:pointer;
+    overflow: hidden;
+    margin:10px auto;
+    width:150px;
+    border-radius:5px;
+    padding: 10px; 
+    text-decoration:none;
+  
+    box-shadow: 0 0 0 5px #A9A9A9,
+    			0 0 0 7px #F8F8FF, 
+                0 0 0 9px #696969; 
+    background-image: linear-gradient(#DCDCDC,	#D3D3D3);
+
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+td{
+    padding-left:5px;
+    height: 100px;
+    border-bottom: 1px solid black;
+}
+td img{
+    width:50px;
+    height: auto;
+}
